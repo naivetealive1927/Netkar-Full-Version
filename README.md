@@ -244,4 +244,4 @@ This repository serves as the official landing page for netKar. The software is 
 **Get the most recent version of netKar today!**
 
 ---
-**Last updated:** 2026-11-03 16:40:01 UTC
+**Last updated:** 2026-11-03 22:05:54 UTC
